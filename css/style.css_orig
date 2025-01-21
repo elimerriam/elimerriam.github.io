@@ -1,0 +1,525 @@
+<!doctype html>
+
+<html class="no-js" lang="en">
+
+<head>
+
+
+	<!-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+	CNaP
+
+	Index Theme by https://jekyllthemes.io
+	Premium + free Jekyll themes for your blog or website.
+
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -->
+
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<!-- Page Info -->
+	<link rel="shortcut icon" href="/images/favicon.png">
+	<title> – CNaP</title>
+	<meta name="description" content="">
+
+	<!-- Twitter Card -->
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content=" – CNaP">
+	<meta name="twitter:description" content="">
+	<meta name="twitter:image:src" content="">
+
+	<!-- Facebook OpenGraph -->
+	<meta property="og:title" content=" – CNaP" />
+	<meta property="og:description" content="" />
+	<meta property="og:image" content="" />
+
+	
+	<!-- Font Embed Code -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300,500" rel="stylesheet">
+	
+
+	<!-- Styles -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="/css/style.css">
+	
+	<!-- Icons -->
+	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/solid.js" integrity="sha384-GXi56ipjsBwAe6v5X4xSrVNXGOmpdJYZEEh/0/GqJ3JTHsfDsF8v0YQvZCJYAiGu" crossorigin="anonymous"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/brands.js" integrity="sha384-0inRy4HkP0hJ038ZyfQ4vLl+F4POKbqnaUB6ewmU4dWP0ki8Q27A0VFiVRIpscvL" crossorigin="anonymous"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/fontawesome.js" integrity="sha384-NY6PHjYLP2f+gL3uaVfqUZImmw71ArL9+Roi9o+I4+RBqArA2CfW1sJ1wkABFfPe" crossorigin="anonymous"></script>
+
+	
+	<!-- Custom Styles -->
+	<style></style>
+	
+
+	
+	<!-- Analytics Code -->
+	
+	
+
+	
+	<!-- Extra Header JS Code -->
+	
+	
+	
+</head>
+
+
+<body class="loading ajax-loading" data-site-url="https://elimerriam.github.io" data-page-url="/css/style.css_orig">
+
+
+	<header class="header">
+
+	<div class="header__content">
+
+		
+		<a href="/" class="header__title">
+			CNaP
+		</a>
+		
+
+		<h1 class="header__tagline">Computational Neuroimaging and Perception Lab</h1>
+
+		<div class="menu">
+			<div class="menu__toggle js-menu-toggle">
+				<div class="menu__toggle__icon"><span></span></div>
+			</div>
+			<div class="menu__wrap">
+				<ul class="menu__list">
+					
+					<li class="menu__list__item">
+						<a href="/about.html" class="menu__list__item__link">About</a>
+					</li>
+					
+					<li class="menu__list__item">
+						<a href="/people.html" class="menu__list__item__link">People</a>
+					</li>
+					
+					<li class="menu__list__item">
+						<a href="/research.html" class="menu__list__item__link">Research</a>
+					</li>
+					
+					<li class="menu__list__item">
+						<a href="/publications.html" class="menu__list__item__link">Publications</a>
+					</li>
+					
+					<li class="menu__list__item">
+						<a href="/prospective.html" class="menu__list__item__link">Prospective lab members</a>
+					</li>
+					
+					<li class="menu__list__item">
+						<a href="/contact" class="menu__list__item__link">Contact</a>
+					</li>
+					
+				</ul>
+			</div>
+		</div>
+
+		<div class="projects-menu">
+			<ul class="menu__list">
+				
+			</ul>
+		</div>
+
+		<div class="header__lower">
+
+			<ul class="socials">
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://x.com/elimerriam" target="_blank" class="socials__item__link" title="Twitter">
+			<i class="fab fa-twitter" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="http://github.com/elimerriam" target="_blank" class="socials__item__link" title="Github">
+			<i class="fab fa-github" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://www.linkedin.com/in/elimerriam/" target="_blank" class="socials__item__link" title="Linkedin">
+			<i class="fab fa-linkedin" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://www.researchgate.net/profile/Elisha-Merriam" target="_blank" class="socials__item__link" title="Researchgate">
+			<i class="fab fa-researchgate" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+</ul>
+
+			<div class="footer__copyright">
+				<span>© 2025 CNaP</span>
+				<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
+			</div>
+
+		</div>
+
+	</div>
+
+</header>
+
+
+	<div class="loader"><svg width="120" height="30" viewBox="0 0 120 30" xmlns="http://www.w3.org/2000/svg"><circle cx="15" cy="15" r="15"><animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15" calcMode="linear" repeatCount="indefinite" /><animate attributeName="fill-opacity" from="1" to="1" begin="0s" dur="0.8s" values="1;.5;1" calcMode="linear" repeatCount="indefinite" /></circle><circle cx="60" cy="15" r="9" fill-opacity="0.3"><animate attributeName="r" from="9" to="9" begin="0s" dur="0.8s" values="9;15;9" calcMode="linear" repeatCount="indefinite" /><animate attributeName="fill-opacity" from="0.5" to="0.5" begin="0s" dur="0.8s" values=".5;1;.5" calcMode="linear" repeatCount="indefinite" /></circle><circle cx="105" cy="15" r="15"><animate attributeName="r" from="15" to="15" begin="0s" dur="0.8s" values="15;9;15" calcMode="linear" repeatCount="indefinite" /><animate attributeName="fill-opacity" from="1" to="1" begin="0s" dur="0.8s" values="1;.5;1" calcMode="linear" repeatCount="indefinite" /></circle></svg></div>
+
+	<div class="page-loader"></div>
+
+	
+	<div class="page">
+
+		<div class="page__content" data-page-title=" – CNaP">
+
+			<section class="intro">
+
+	<div class="wrap">
+
+		<h1></h1>
+		<p></p>
+
+	</div>
+
+</section>
+
+<section class="single">
+
+	<div class="wrap">
+
+		// - - - - - - - - - - Foundations
+
+@import "_reset";
+@import "_mixins";
+@import "_plugins";
+@import "_custom.css";
+
+
+// - - - - - - - - - - Variables
+
+
+// Colors
+
+$background-color: {{ site.data.settings.color_settings.background_color }};
+$background-alt-color: {{ site.data.settings.color_settings.background_alt_color }};
+$border-color: {{ site.data.settings.color_settings.border_color }};
+
+$text-dark-color: {{ site.data.settings.color_settings.text_dark_color }};
+$text-medium-color: {{ site.data.settings.color_settings.text_medium_color }};
+$text-light-color: {{ site.data.settings.color_settings.text_light_color }};
+
+$accent-color: {{ site.data.settings.color_settings.accent_color }};
+
+$overlay-background-color: {{ site.data.settings.color_settings.overlay_background_color }};
+$overlay-text-color: {{ site.data.settings.color_settings.overlay_text_color }};
+$overlay-accent-color: {{ site.data.settings.color_settings.overlay_accent_color }};
+
+$error-color: {{ site.data.settings.color_settings.error_color }};
+
+
+// Fonts
+
+$body-font: {{ site.data.settings.font_settings.body_font }};
+$title-font: {{ site.data.settings.font_settings.title_font }};
+
+$regular-weight: {{ site.data.settings.font_settings.regular_weight }};
+$bold-weight: {{ site.data.settings.font_settings.bold_weight }};
+
+
+// Typography
+
+$sitetitle-small: {{ site.data.settings.font_settings.site_title.small_size }}px;
+$sitetitle-medium: {{ site.data.settings.font_settings.site_title.medium_size }}px;
+$sitetitle-large: {{ site.data.settings.font_settings.site_title.large_size }}px;
+$sitetitle-weight: {{ site.data.settings.font_settings.site_title.weight }};
+$sitetitle-spacing: {{ site.data.settings.font_settings.site_title.letter_spacing }}em;
+
+$sitetagline-small: {{ site.data.settings.font_settings.site_tagline.small_size }}px;
+$sitetagline-medium: {{ site.data.settings.font_settings.site_tagline.medium_size }}px;
+$sitetagline-large: {{ site.data.settings.font_settings.site_tagline.large_size }}px;
+$sitetagline-weight: {{ site.data.settings.font_settings.site_tagline.weight }};
+$sitetagline-spacing: {{ site.data.settings.font_settings.site_tagline.letter_spacing }}em;
+$sitetagline-lineheight: {{ site.data.settings.font_settings.site_tagline.line_height }};
+
+$menu-small: {{ site.data.settings.font_settings.menu.small_size }}px;
+$menu-medium: {{ site.data.settings.font_settings.menu.medium_size }}px;
+$menu-large: {{ site.data.settings.font_settings.menu.large_size }}px;
+$menu-weight: {{ site.data.settings.font_settings.menu.weight }};
+$menu-spacing: {{ site.data.settings.font_settings.menu.letter_spacing }}em;
+
+$grid-item-title-small: {{ site.data.settings.font_settings.grid_item_title.small_size }}px;
+$grid-item-title-medium: {{ site.data.settings.font_settings.grid_item_title.medium_size }}px;
+$grid-item-title-large: {{ site.data.settings.font_settings.grid_item_title.large_size }}px;
+$grid-item-title-weight: {{ site.data.settings.font_settings.grid_item_title.weight }};
+$grid-item-title-spacing: {{ site.data.settings.font_settings.grid_item_title.letter_spacing }}em;
+
+$grid-item-subtitle-small: {{ site.data.settings.font_settings.grid_item_subtitle.small_size }}px;
+$grid-item-subtitle-medium: {{ site.data.settings.font_settings.grid_item_subtitle.medium_size }}px;
+$grid-item-subtitle-large: {{ site.data.settings.font_settings.grid_item_subtitle.large_size }}px;
+$grid-item-subtitle-weight: {{ site.data.settings.font_settings.grid_item_subtitle.weight }};
+$grid-item-subtitle-spacing: {{ site.data.settings.font_settings.grid_item_subtitle.letter_spacing }}em;
+
+$h1-small: {{ site.data.settings.font_settings.h1.small_size }}px;
+$h1-medium: {{ site.data.settings.font_settings.h1.medium_size }}px;
+$h1-large: {{ site.data.settings.font_settings.h1.large_size }}px;
+$h1-weight: {{ site.data.settings.font_settings.h1.weight }};
+$h1-spacing: {{ site.data.settings.font_settings.h1.letter_spacing }}em;
+$h1-lineheight: {{ site.data.settings.font_settings.h1.line_height }};
+
+$h2-small: {{ site.data.settings.font_settings.h2.small_size }}px;
+$h2-medium: {{ site.data.settings.font_settings.h2.medium_size }}px;
+$h2-large: {{ site.data.settings.font_settings.h2.large_size }}px;
+$h2-weight: {{ site.data.settings.font_settings.h2.weight }};
+$h2-spacing: {{ site.data.settings.font_settings.h2.letter_spacing }}em;
+$h2-lineheight: {{ site.data.settings.font_settings.h2.line_height }};
+
+$h3-small: {{ site.data.settings.font_settings.h3.small_size }}px;
+$h3-medium: {{ site.data.settings.font_settings.h3.medium_size }}px;
+$h3-large: {{ site.data.settings.font_settings.h3.large_size }}px;
+$h3-weight: {{ site.data.settings.font_settings.h3.weight }};
+$h3-spacing: {{ site.data.settings.font_settings.h3.letter_spacing }}em;
+$h3-lineheight: {{ site.data.settings.font_settings.h3.line_height }};
+
+$h4-small: {{ site.data.settings.font_settings.h4.small_size }}px;
+$h4-medium: {{ site.data.settings.font_settings.h4.medium_size }}px;
+$h4-large: {{ site.data.settings.font_settings.h4.large_size }}px;
+$h4-weight: {{ site.data.settings.font_settings.h4.weight }};
+$h4-spacing: {{ site.data.settings.font_settings.h4.letter_spacing }}em;
+$h4-lineheight: {{ site.data.settings.font_settings.h4.line_height }};
+
+$h5-small: {{ site.data.settings.font_settings.h5.small_size }}px;
+$h5-medium: {{ site.data.settings.font_settings.h5.medium_size }}px;
+$h5-large: {{ site.data.settings.font_settings.h5.large_size }}px;
+$h5-weight: {{ site.data.settings.font_settings.h5.weight }};
+$h5-spacing: {{ site.data.settings.font_settings.h5.letter_spacing }}em;
+$h5-lineheight: {{ site.data.settings.font_settings.h5.line_height }};
+
+$h6-small: {{ site.data.settings.font_settings.h6.small_size }}px;
+$h6-medium: {{ site.data.settings.font_settings.h6.medium_size }}px;
+$h6-large: {{ site.data.settings.font_settings.h6.large_size }}px;
+$h6-weight: {{ site.data.settings.font_settings.h6.weight }};
+$h6-spacing: {{ site.data.settings.font_settings.h6.letter_spacing }}em;
+$h6-lineheight: {{ site.data.settings.font_settings.h6.line_height }};
+
+$p-small: {{ site.data.settings.font_settings.p.small_size }}px;
+$p-medium: {{ site.data.settings.font_settings.p.medium_size }}px;
+$p-large: {{ site.data.settings.font_settings.p.large_size }}px;
+$p-weight: {{ site.data.settings.font_settings.p.weight }};
+$p-spacing: {{ site.data.settings.font_settings.p.letter_spacing }}em;
+$p-lineheight: {{ site.data.settings.font_settings.p.line_height }};
+
+$blockquote-small: {{ site.data.settings.font_settings.blockquote.small_size }}px;
+$blockquote-medium: {{ site.data.settings.font_settings.blockquote.medium_size }}px;
+$blockquote-large: {{ site.data.settings.font_settings.blockquote.large_size }}px;
+$blockquote-weight: {{ site.data.settings.font_settings.blockquote.weight }};
+$blockquote-spacing: {{ site.data.settings.font_settings.blockquote.letter_spacing }}em;
+$blockquote-lineheight: {{ site.data.settings.font_settings.blockquote.line_height }};
+
+$button-weight: {{ site.data.settings.font_settings.buttons.weight }};
+$button-spacing: {{ site.data.settings.font_settings.buttons.letter_spacing }}em;
+
+
+// Logo
+$logo-width: {{ site.data.settings.header_settings.logo_width }}px;
+$footer-logo-width: {{ site.data.settings.footer_settings.logo_width }}px;
+
+
+// Grid item
+$overlay-opacity: {{ site.data.settings.grid_settings.overlay_opacity }};
+$grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
+
+
+
+// - - - - - - - - - - Global styles
+
+@import "_basic";
+
+@import "_includes/_header";
+@import "_includes/_footer";
+
+@import "_includes/_content";
+@import "_includes/_socials";
+@import "_includes/_gallery";
+@import "_includes/_syntax";
+@import "_includes/_contact-form";
+
+
+
+// - - - - - - - - - - Section styles
+
+@import "_includes/_portfolio";
+@import "_includes/_blog";
+
+
+
+
+	</div>
+
+</section>
+
+		</div>
+
+	</div>
+
+
+	<footer class="footer">
+
+	<ul class="socials">
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://x.com/elimerriam" target="_blank" class="socials__item__link" title="Twitter">
+			<i class="fab fa-twitter" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="http://github.com/elimerriam" target="_blank" class="socials__item__link" title="Github">
+			<i class="fab fa-github" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://www.linkedin.com/in/elimerriam/" target="_blank" class="socials__item__link" title="Linkedin">
+			<i class="fab fa-linkedin" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+	
+	<li class="socials__item">
+		<a href="https://www.researchgate.net/profile/Elisha-Merriam" target="_blank" class="socials__item__link" title="Researchgate">
+			<i class="fab fa-researchgate" aria-hidden="true"></i>
+		</a>
+	</li>
+	
+	
+</ul>
+
+	<div class="footer__copyright">
+		<span>© 2025 CNaP</span>
+		<a href="https://jekyllthemes.io" target="_blank">Jekyll Themes</a>
+	</div>
+
+</footer>
+
+
+	<!-- Javascript Assets -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="/js/plugins-min.js"></script>
+	<script src="/js/index-min.js"></script>
+
+	
+	<!-- Extra Footer JS Code -->
+	
+	
+
+
+</body>
+
+</html>
